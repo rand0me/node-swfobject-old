@@ -1,0 +1,23 @@
+{
+  "name": "swfobject-old",
+  "version": "2.2",
+  "description": "A packaged version of swfobject 2.2 lib for compatibility reasons",
+  "homepage": "https://github.com/swfobject/swfobject",
+  "author": {
+    "name": "The SWFObject team",
+    "email": "",
+    "url": "http://pipwerks.com"
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "lib\\index.js",
+  "keywords": [
+    "swfobject"
+  ],
+  "repository": "rand0me/node-swfobject-old",
+  "scripts": {
+    "test": "echo ERROR: There is no tests! && exit 1"
+  },
+  "license": "MIT"
+}
