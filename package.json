@@ -1,6 +1,6 @@
 {
   "name": "swfobject-old",
-  "version": "2.2",
+  "version": "2.2.0",
   "description": "A packaged version of swfobject 2.2 lib for compatibility reasons",
   "homepage": "https://github.com/swfobject/swfobject",
   "author": {
