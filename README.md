@@ -1,4 +1,7 @@
 # swfobject-old [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rand0me/node-swfobject-old.svg)](https://greenkeeper.io/)
+
 > A packaged version of swfobject 2.2 lib for compatibility reasons
 
 ## Installation
